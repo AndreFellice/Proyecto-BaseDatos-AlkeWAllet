@@ -31,5 +31,4 @@ El proyecto de base de datos AlkeWallet se centra en el diseño e implementació
 
 ## Enlace al Diagrama de Base de Datos
 ![Ver Diagrama AlkeWallet]([https://github.com/AndreFellice/Proyecto-BaseDatos-AlkeWAllet/blob/d46fed54121092d52e9685dad233b04cd513dadf/Diagrama%20BAsedatosAlkeWallet.pdf])
-
 ![AlkeWallet Badge](https://github.com/AndreFellice/AndreFellice/blob/main/OIP.jpeg?raw=true)
