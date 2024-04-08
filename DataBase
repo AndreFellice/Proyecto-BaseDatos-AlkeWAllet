@@ -228,7 +228,7 @@ ORDER BY T.transaction_date DESC;
 UPDATE Usuario
 SET correoElectronico = 'donaldydaisy@example.com'
 WHERE user_id = 4;
-ROLLBACK;
+
 -- j. Sentencia para eliminar los datos de una transacción (eliminado de la fila completa) (ejemplo (1,100.00, '2024-04-01', 1, 2, 2))
 
 DELETE FROM Transaccion
