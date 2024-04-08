@@ -30,6 +30,6 @@ El proyecto de base de datos AlkeWallet se centra en el diseño e implementació
 4. **Experiencia del Usuario:** Ofrece una interfaz intuitiva y amigable que mejora la experiencia del usuario al utilizar la aplicación AlkeWallet.
 
 ## Enlace al Diagrama de Base de Datos
-[Ver Diagrama AlkeWallet][https://github.com/AndreFellice/Proyecto-BaseDatos-AlkeWAllet/blob/f6dd13947f3c31db61231e395792d3a326a93174/DIAGRAMA%20ALKEWALLET%20BASEDATSOMYSQL.pdf]
+![Ver Diagrama AlkeWallet]([https://github.com/AndreFellice/Proyecto-BaseDatos-AlkeWAllet/blob/d46fed54121092d52e9685dad233b04cd513dadf/Diagrama%20BAsedatosAlkeWallet.pdf])
 
 ![AlkeWallet Badge](https://github.com/AndreFellice/AndreFellice/blob/main/OIP.jpeg?raw=true)
